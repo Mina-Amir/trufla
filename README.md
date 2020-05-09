@@ -4,15 +4,15 @@ This is a React project with some dummy data you can check the dummy data in <co
 
 ### `Download or clone the repo to your local machine`
 
-<code> git clone </code>
+<code> git clone git@github.com:Mina-Amir/trufla.git</code>
 
 ### `yarn run start-db`
 
-This will strat the dummy database at (http://localhost:3000)
+This will start the dummy database at (http://localhost:3000)
 
 ### `yarn start`
 
-Runs the app in the development mode. It will ask you to run the project on a different port like 3001 since te defult port (3000) is already taken by the database.<br />
+Runs the app in the development mode. It will ask you to run the project on a different port like 3001 since the default port (3000) is already taken by the database.<br />
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.<br />
