@@ -1,21 +1,24 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a React project with some dummy data you can check the dummy data in <code>db.json</code>. The project is about companies that provide products, Some of the products have a discount code and some of them don't have discounts
 
-## Available Scripts
+## The steps to run the Project are
 
-In the project directory, you can run:
+### `Download or clone the repo to your local machine`
+
+<code> git clone </code>
+
+### `yarn run start-db`
+
+This will strat the dummy database at (http://localhost:3000)
 
 ### `yarn start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Runs the app in the development mode. It will ask you to run the project on a different port like 3001 since te defult port (3000) is already taken by the database.<br />
+Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Additional scripts
 
 ### `yarn build`
 
